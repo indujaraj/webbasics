@@ -1,0 +1,12 @@
+div{
+    background-color: blue;
+    border: solid black;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+
+}
+body{
+    background-color: cadetblue;
+    height: 1000px;
+}

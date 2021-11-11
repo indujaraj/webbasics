@@ -1,0 +1,10 @@
+framework
+*set of rules
+1. set of classes and interfaces,functions
+2.concentrate on high level functionalities as low level can be imported
+3.IOC(inversion of control)
+
+
+library
+1. set of classes and interfaces,functions
+

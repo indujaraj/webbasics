@@ -1,0 +1,35 @@
+.row{
+    width:500px;
+    height:300px;
+    border:solid black 1px;
+    background-color: dodgerblue;
+    position:absolute;
+}
+.col{
+    float:left;
+    position: relative;
+    width:100px;
+    height: 200px;
+    border: solid black 1px;
+
+}
+.call1{
+    position: relative;
+    background-color:gold ;
+    left:2px;
+}
+.call2{
+    position: relative;
+    background-color: green;
+    left:10px;
+}
+.call3{
+    position: relative;
+    background-color: hotpink;
+    left:20px
+}
+.call4{
+    position: relative;
+    background-color: mediumturquoise;
+    left:30px;
+}

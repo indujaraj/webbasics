@@ -1,0 +1,13 @@
+.fix{
+    border: solid black px;
+    background-color: chartreuse;
+    height: 100px;
+    width:100px;
+    position: sticky;
+    top:10px;
+}
+body{
+    height: 2000px;
+    background-image: url(./OIP.jpeg);
+    background-size: cover;
+}

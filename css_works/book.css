@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+body{
+     background-color: black; 
+    
+}
+h1{
+    color:white;
+    text-align:center;
+}
+div h1{
+    text-align: center;
+   color:white;
+    
+    
+}
+div{
+    border: solid white 1px;
+    float: left;
+    height: 580px;
+    width:24%;
+    padding:5px;
+    margin-top: 10px;
+    
+    
+    
+    
+    
+}
+div img{
+    width:100%;
+    height:50%
+}
+div h2{
+    
+    text-align: center;
+    color:white;
+    
+}
+div p{
+    font-size: 10x;
+    font-family: 'Carattere', cursive;
+    width:100%;
+    text-align: center;
+    color: white;
+    
+}
+
+

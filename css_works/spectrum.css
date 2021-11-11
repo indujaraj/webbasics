@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+    
+}
+h1{
+
+
+    text-align: center;
+    color:white;
+}
+
+
+
+div{
+    border: solid black 1px;
+    width:100px;
+    height:150px;
+}
+#b1{
+    background-color: blueviolet;
+    margin-left:752px ;
+    margin-top:61px;
+}
+#b2{
+    background-color: blue;
+    margin-left:649px;
+    margin-top:-152px ;
+}
+#b3{
+    background-color: red;
+    margin-left:546px ;
+    margin-top:-152px ;
+}
+#b4{
+    background-color: royalblue;
+    margin-left:443px ;
+    margin-top:-152px ;
+}
+#b5{
+    background-color: turquoise;
+    margin-left:340px ;
+    margin-top: -152px;
+}
+#b6{
+    background-color: yellow;
+    margin-left:236px ;
+    margin-top:20px ;
+}
+#b7{
+    background-color: violet;
+    margin-left:340px ;
+    margin-top:-152px ;
+}
+#b8{
+    background-color: teal;
+    margin-left:443px;
+    margin-top: -152px;
+}
+#b9{
+    background-color: tomato;
+    margin-left:546px;
+    margin-top: -152px;
+}
+#b10{
+    background-color: aqua;
+    margin-left:649px;
+    margin-top: -152px;
+}
+#b11{
+    background-color: chartreuse;
+    margin-left:752px;
+    margin-top:-152px
+}
+#b12{
+    background-color: chocolate;
+    margin-left:856px;
+    margin-top:-152px;
+}
+#b13{
+    background-color: darkgreen;
+    margin-left: 132px;
+    margin-top:22px
+
+}
+#b14{
+    background-color: darkmagenta;
+    margin-left:236px;
+    margin-top: -152px;
+}
+#b15{
+    background-color: darkolivegreen;
+    margin-left: 340px;
+    margin-top: -152px;
+
+}
+#b16{
+    background-color: deeppink;
+    margin-left:443px ;
+    margin-top: -152px;
+}
+#b17{
+    background-color: dodgerblue;
+    margin-left: 546px;
+    margin-top: -152px;
+}
+#b18{
+    background-color: gold;
+    margin-left: 649px;
+    margin-top: -152px;
+}
+#b19{
+    background-color: orange;
+    margin-left:752px ;
+    margin-top: -152px;
+}
+#b20{
+    background-color: rebeccapurple;
+    margin-left: 856px;
+    margin-top:-152px;
+}
+#b21{
+    background-color: seagreen;
+    margin-left:959px ;
+    margin-top:-152px;
+}
